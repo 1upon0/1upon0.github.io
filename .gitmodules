@@ -1,0 +1,3 @@
+[submodule "ygupta/themes/hugo-kiera"]
+	path = ygupta/themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
